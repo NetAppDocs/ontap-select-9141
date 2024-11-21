@@ -4,7 +4,6 @@ permalink: concept_ots_overview.html
 keywords: overview, software defined storage, sds, typical deployment, ontap 9
 summary: ONTAP Select is a software-only version of ONTAP that you deploy as a virtual machine on a hypervisor host. It complements the suite of mainstream FAS and AFF ONTAP offerings as well as other software-only options such as Cloud Volumes ONTAP.
 ---
-
 = ONTAP Select overview
 :hardbreaks:
 :nofooter:
@@ -68,6 +67,8 @@ Several ONTAP features are not supported with ONTAP Select. In most cases, these
 
 * Cluster IPspace
 Any modification to Cluster IPspace, including adding or removing ports, virtual LANs (VLANs), or link aggregation groups is not supported.
+
+* ESXi 8.0 U3
 
 * Fibre Channel
 Fibre Channel and Fibre Channel over Ethernet are not supported.
