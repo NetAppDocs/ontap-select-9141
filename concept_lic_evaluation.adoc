@@ -15,6 +15,13 @@ summary: You can use an evaluation license if you want to evaluate ONTAP Select 
 [.lead]
 You can use an evaluation license if you want to evaluate ONTAP Select before making the decision to purchase. The evaluation license is included with the ONTAP Select Deploy administration utility and is automatically applied to each ONTAP Select node as part of an evaluation deployment.
 
+[NOTE]
+====
+To download the ONTAP Select Deploy administration utility, you need the following:
+* A  registered NetApp Support Site account. If you don't have an account, see https://mysupport.netapp.com/site/user/registration[User registration^]. 
+* To https://mysupport.netapp.com/site/downloads/evaluation/ontap-select[accept the End User License agreement^] for an ONTAP Select deployment with an evaluation license.
+====
+
 == Licensing characteristics
 
 The ONTAP Select evaluation license has the following characteristics:
